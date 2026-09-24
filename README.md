@@ -2,7 +2,7 @@
 
 트라우마의 심리학 수업 소셜 캠페인용 브라우저 미니게임입니다.
 
-- 현재 공개 게임: https://stones-and-steps.goodrun94.chatgpt.site
+- 현재 공개 게임: https://do-ong22.github.io/test/
 - 기준 버전: v7 / 내보낸 날짜: 2026-09-24
 - 원본 커밋: `d9dc20f59edafa9d4d4c6cbf60439d7fb76aaf5e`
 
